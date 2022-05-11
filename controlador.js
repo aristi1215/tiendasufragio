@@ -167,8 +167,30 @@ let productos=Array(
     producto20
 )
 
+
+let contenedor=document.getElementById("contenedor")
+
 //RECORRO EL ARREGLO
 productos.forEach(function(producto){
-    console.log(producto.nombre)
+   let foto=document.createElement("img")
+   foto.classList.add("w-100","img-fluid")
+   foto.src=producto.foto
+   
+   let columna=document.createElement("div")
+   columna.classList.add("col")
+   
+   let tarjeta=document.createElement("div")
+   tarjeta.classList.add("tarjeta")
+   tarjeta.appendChild(foto)
+   columna.appendChild(tarjeta)
+   contenedor.appendChild(columna)
+   
+
+    
+
+
+
+
+
 })
 
