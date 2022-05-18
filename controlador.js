@@ -178,7 +178,7 @@ let producto20={
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
 
-let producto20={
+let producto21={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -186,7 +186,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto22={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -194,7 +194,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto23={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -202,7 +202,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto24={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -210,7 +210,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto25={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -218,7 +218,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto26={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -226,7 +226,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto27={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -234,7 +234,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto28={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -242,7 +242,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto29={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -250,7 +250,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto30={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -258,7 +258,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto31={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -266,7 +266,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto32={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -274,7 +274,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto33={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -282,7 +282,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto34={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -290,7 +290,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto35={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -298,7 +298,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto36={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -306,7 +306,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto37={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -314,7 +314,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto38={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -322,7 +322,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto39={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -330,7 +330,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto40={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -338,7 +338,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto41={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -346,7 +346,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto42={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -354,7 +354,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto43={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -362,7 +362,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto44={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -370,7 +370,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto45={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -378,7 +378,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto46={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -386,7 +386,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto47={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -394,7 +394,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto48={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -402,7 +402,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
+let producto49={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -410,95 +410,7 @@ let producto20={
     pais:"pais",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
 }
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
-    nombre:"whiskas humedo",
-    precio:7000,
-    estado:true,
-    popularidad:"⭐⭐⭐⭐⭐",
-    pais:"pais",
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-29fc6.appspot.com/o/whiskas%20humedo.jfif?alt=media&token=c1eeaa19-d833-43a1-9445-c04ef8e1eaf3"
-}
-let producto20={
+let producto50={
     nombre:"whiskas humedo",
     precio:7000,
     estado:true,
@@ -582,9 +494,9 @@ productos.forEach(function(producto){
    nombre.classList.add("text-center")
    nombre.textContent=producto.nombre
 
-   let estado=document.createElement("p")
-   estado.classList.add("text-center", "text-danger")
-   estado.textContent=producto.estado
+   let popularidad=document.createElement("p")
+   popularidad.classList.add("text-center", "text-danger")
+   popularidad.textContent=producto.popularidad
 
    
    let precio=document.createElement("p")
@@ -603,7 +515,7 @@ productos.forEach(function(producto){
    tarjeta.appendChild(foto)
    tarjeta.appendChild(nombre)
    tarjeta.appendChild(precio)
-   tarjeta.appendChild(estado)
+   tarjeta.appendChild(popularidad)
    columna.appendChild(tarjeta)
    contenedor.appendChild(columna)
    
